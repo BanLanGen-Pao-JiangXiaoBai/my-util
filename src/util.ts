@@ -38,3 +38,4 @@ export function throttle(func:Function,delay:number){
      }
   }
 }
+export { EventBus } from './observer'
