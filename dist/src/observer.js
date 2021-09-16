@@ -39,7 +39,7 @@ var EventEmitter = function () {
 //     }
 // }
 // var x = EventEmitterConstructor as EventEmitter
-// var ee = new EventEmitter()
+// var ee:EventEmitterObj = new EventEmitter()
 // var f = function (text) {
 //     console.log(text)
 //     }

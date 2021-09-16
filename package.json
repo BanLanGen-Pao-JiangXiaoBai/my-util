@@ -6,7 +6,8 @@
   "types": "dist/util.d.ts",
   "scripts": {
     "tsc": "tsc",
-    "jest": "jest"
+    "jest": "jest",
+    "webpack": "webpack"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,10 @@
     "@babel/preset-env": "^7.15.4",
     "@babel/preset-typescript": "^7.15.0",
     "@types/jest": "^27.0.1",
-    "jest": "^27.1.0"
+    "jest": "^27.1.0",
+    "ts-loader": "^9.2.5",
+    "typescript": "^4.4.3",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
   }
 }

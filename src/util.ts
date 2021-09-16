@@ -1,3 +1,4 @@
+import { dateFormatObj } from '../types/index'
 // 日期格式化
 export function dateFormat(date:Date|number,isPad?:boolean):dateFormatObj{
   const time = new Date(date)

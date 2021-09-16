@@ -1,3 +1,6 @@
+```node
+npm install dml-util -s
+```
 # debounces
 返回一个防抖函数 参数为包装函数fn,毫秒数time
 # throttle 

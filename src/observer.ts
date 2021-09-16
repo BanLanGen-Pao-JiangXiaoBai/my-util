@@ -1,3 +1,4 @@
+import { EventEmitter } from '../types/index'
 const EventEmitter = function (){
   this.on = on
   this.emit = emit
